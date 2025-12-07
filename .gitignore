@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/Week9Assignment/Library
+/Week9Assignment/Assets/Oculus
+Week9Assignment/Temp/workerlic
+/Week9Assignment/Temp
+/Week9Assignment/UserSettings
